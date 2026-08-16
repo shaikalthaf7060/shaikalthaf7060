@@ -20,8 +20,11 @@
 Here are some of my key certifications and important documents outlining my technical journey:
 
 *   🎓 **[SREC Nandyal - CodeTantra Certificate](https://srecnandyal.codetantra.com/cert/certificate.jsp?certId=CT379-uWYT2kT-cb5)**: Course completion certificate demonstrating my proficiency in core programming concepts and commitment to technical skill development through Santhiram Engineering College.
-*   📄 **[My Document / Project Report 1](https://drive.google.com/file/d/1Y29hUYZ6IGe61ji_IF-ygBQub2EtN3ku/view?usp=sharing)**: *(Please update this text to describe what is in this Drive link, e.g., "My latest Resume" or "Full-Stack Project Documentation")*
-*   📄 **[My Document / Project Report 2](https://drive.google.com/file/d/19kahxD-Ff0_VlOzeR9hRtjMm4o20Fzxn/view?usp=sharing)**: *(Please update this text to describe what is in this Drive link)*
+### 🏅 Certifications
+
+| Certification | Issuer | Issued Date | Credential ID |
+| :--- | :--- | :--- | :--- |
+| **Salesforce Certified Agentforce Specialist** | Salesforce / Trailhead | Dec 2025 | `7294237` |
 ---
 
 ## 💻 Tech Stack
