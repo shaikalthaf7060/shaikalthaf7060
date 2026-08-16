@@ -8,10 +8,10 @@
 
 ## 💫 About Me
 
-*   🔭 **Currently working on:** Building my portfolio and impactful personal projects.
-*   🌱 **Currently learning:** Python, Git/GitHub, and backend fundamentals.
-*   🤝 **Looking to collaborate on:** Beginner-friendly open-source repositories.
-*   💬 **Ask me about:** Core CS concepts, problem-solving, and tech exploration.
+* 🔭 **Currently working on:** Building my portfolio and impactful personal projects.
+* 🌱 **Currently learning:** Python, Git/GitHub, and backend fundamentals.
+* 🤝 **Looking to collaborate on:** Beginner-friendly open-source repositories.
+* 💬 **Ask me about:** Core CS concepts, problem-solving, and tech exploration.
 
 ---
 
@@ -19,7 +19,7 @@
 
 Here are some of my key certifications and important documents outlining my technical journey:
 
-*   🎓 **[SREC Nandyal - CodeTantra Certificate](https://srecnandyal.codetantra.com/cert/certificate.jsp?certId=CT379-uWYT2kT-cb5)**: Course completion certificate demonstrating my proficiency in core programming concepts and commitment to technical skill development through Santhiram Engineering College.
+* 🎓 **[SREC Nandyal - CodeTantra Certificate](https://srecnandyal.codetantra.com/cert/certificate.jsp?certId=CT379-uWYT2kT-cb5)**: Course completion certificate demonstrating my proficiency in core programming concepts and commitment to technical skill development through Santhiram Engineering College.
 
 ### 🏅 Certifications
 
