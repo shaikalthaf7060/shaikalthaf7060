@@ -8,8 +8,6 @@
 
 ## 💫 About Me
 
-I'm a passionate developer based in Nandyala, constantly eager to build, break, and learn. When I'm not untangling Data Structures and Algorithms or pushing clean code, you might find me exploring the outdoors on my motorcycle or chasing the sunrise up the Vanjangi Hills. I believe in continuous growth, both on the screen and off the grid!
-
 *   🔭 **Currently working on:** Building my portfolio and impactful personal projects.
 *   🌱 **Currently learning:** Python, Git/GitHub, and backend fundamentals.
 *   🤝 **Looking to collaborate on:** Beginner-friendly open-source repositories.
@@ -17,15 +15,13 @@ I'm a passionate developer based in Nandyala, constantly eager to build, break, 
 
 ---
 
-## 🏆 Achievements & Milestones
+## 📜 Certifications & Documents
 
-*(Replace the bracketed text below with your proudest technical accomplishments!)*
+Here are some of my key certifications and important documents outlining my technical journey:
 
-*   🌟 **[Major Milestone]**: E.g., "Secured 1st place in University Hackathon 2025" or "Completed 100 Days of Code".
-*   🚀 **[Certification/Course]**: E.g., "Certified Full-Stack Developer by [Platform]".
-*   💻 **[Project Highlight]**: E.g., "Successfully deployed a full-stack web application serving 500+ users."
-*   ⛰️ **Personal Milestone**: Reached the summit of the Vanjangi Cloud Hill Top—a reminder to always enjoy the climb as much as the destination!
-
+*   🎓 **[SREC Nandyal - CodeTantra Certificate](https://srecnandyal.codetantra.com/cert/certificate.jsp?certId=CT379-uWYT2kT-cb5)**: Course completion certificate demonstrating my proficiency in core programming concepts and commitment to technical skill development through Santhiram Engineering College.
+*   📄 **[My Document / Project Report 1](https://drive.google.com/file/d/1Y29hUYZ6IGe61ji_IF-ygBQub2EtN3ku/view?usp=sharing)**: *(Please update this text to describe what is in this Drive link, e.g., "My latest Resume" or "Full-Stack Project Documentation")*
+*   📄 **[My Document / Project Report 2](https://drive.google.com/file/d/19kahxD-Ff0_VlOzeR9hRtjMm4o20Fzxn/view?usp=sharing)**: *(Please update this text to describe what is in this Drive link)*
 ---
 
 ## 💻 Tech Stack
