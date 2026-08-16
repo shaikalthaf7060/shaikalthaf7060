@@ -20,11 +20,13 @@
 Here are some of my key certifications and important documents outlining my technical journey:
 
 *   🎓 **[SREC Nandyal - CodeTantra Certificate](https://srecnandyal.codetantra.com/cert/certificate.jsp?certId=CT379-uWYT2kT-cb5)**: Course completion certificate demonstrating my proficiency in core programming concepts and commitment to technical skill development through Santhiram Engineering College.
+
 ### 🏅 Certifications
 
 | Certification | Issuer | Issued Date | Credential ID |
 | :--- | :--- | :--- | :--- |
 | **Salesforce Certified Agentforce Specialist** | Salesforce / Trailhead | Dec 2025 | `7294237` |
+
 ---
 
 ## 💻 Tech Stack
@@ -54,25 +56,15 @@ Here are some of my key certifications and important documents outlining my tech
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
 
 ---
-###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="center">
+  <picture data-importer="pacman">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph.svg?game=pacman">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  </picture>
 </div>
 
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
-
-###
-</picture>
-
-###
 ## 🌐 Let's Connect
 
 <div align="center">
