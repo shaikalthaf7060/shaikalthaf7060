@@ -60,7 +60,11 @@ Here are some of my key certifications and important documents outlining my tech
 <div align="center">
   <picture data-importer="pacman">
     <div align="center">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph.svg" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/shaikalthaf7060/shaikalthaf7060/pacman-output/pacman-contribution-graph-dark.svg">
+  </picture>
 </div>
   </picture>
 </div>
