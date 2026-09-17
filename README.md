@@ -6,7 +6,7 @@
 
 ---
 
-## 💫 About Me
+## 💫 About Me  
 
 * 🔭 **Currently working on:** Building my portfolio and impactful personal projects.
 * 🌱 **Currently learning:** Python, Git/GitHub, and backend fundamentals.
