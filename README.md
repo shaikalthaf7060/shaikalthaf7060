@@ -67,7 +67,7 @@ Here are some of my key certifications and important documents outlining my tech
   </picture>
 </div>
   </picture>
-</div>
+</div> 
 
 ## 🌐 Let's Connect
 
