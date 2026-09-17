@@ -13,7 +13,7 @@
 * 🤝 **Looking to collaborate on:** Beginner-friendly open-source repositories.
 * 💬 **Ask me about:** Core CS concepts, problem-solving, and tech exploration.
 
----
+--- 
  
 ## 📜 Certifications & Documents
 
