@@ -14,7 +14,7 @@
 * 💬 **Ask me about:** Core CS concepts, problem-solving, and tech exploration.
 
 ---
-
+ 
 ## 📜 Certifications & Documents
 
 Here are some of my key certifications and important documents outlining my technical journey:
