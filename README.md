@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Althaf! 👋</h1> 
   <h3>Aspiring Software Engineer | B.Tech CSE Student | Web Development</h3> 
-  <p><em>"My code works on the first try... approximately 1% of the time ⚡"</em></p>
+  <p><em>"My code works on the first try... approximately 1% of the time ⚡"</em></p>  
 </div> 
                    
 ---
