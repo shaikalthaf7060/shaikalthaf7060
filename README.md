@@ -8,7 +8,7 @@
 
 ## 💫 About Me  
 
-* 🔭 **Currently working on:** Building my portfolio and impactful personal projects.
+* 🔭 **Currently working on:** Building my portfolio and impactful personal projects. 
 * 🌱 **Currently learning:** Python, Git/GitHub, and backend fundamentals.
 * 🤝 **Looking to collaborate on:** Beginner-friendly open-source repositories.
 * 💬 **Ask me about:** Core CS concepts, problem-solving, and tech exploration.
