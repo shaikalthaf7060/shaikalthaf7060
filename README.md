@@ -69,7 +69,7 @@ Here are some of my key certifications and important documents outlining my tech
   </picture>
 </div> 
 
-## 🌐 Let's Connect
+## 🌐 Let's Connect 
 
 <div align="center">
   <a href="https://www.linkedin.com/in/shaik-althaf-5396123a6/">
